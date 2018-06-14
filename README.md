@@ -15,4 +15,4 @@
 
 :smile:
 :cry:
-:sports:
+:sport:
