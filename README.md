@@ -4,4 +4,4 @@
 
 # 李子扬今天下午睡的很香！
 
-emoji:smile
+emoji:smile:
